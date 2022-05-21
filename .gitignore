@@ -1,5 +1,6 @@
 # Editors
 .idea/
+.vscode/
 
 # Account specific config files
 config.json
